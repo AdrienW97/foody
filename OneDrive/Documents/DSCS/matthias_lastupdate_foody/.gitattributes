@@ -1,0 +1,5 @@
+#to combine windows and mac commits
+* text=auto
+
+*.jpg binary
+*.png binary
